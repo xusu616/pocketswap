@@ -1,3 +1,5 @@
+> 📦 **Release 下载提示**：请前往对应的 GitLab 仓库查看或下载 Release（GitHub 端暂不重复上传）👉 [https://gitlab.com/xusu616/pocketswap/-/releases](https://gitlab.com/xusu616/pocketswap/-/releases) （[GitLab 仓库主页](https://gitlab.com/xusu616/pocketswap)）
+
 # PocketSwap
 
 把存储空间作为低优先级后备 swap，面向小内存 Android 手机。1.0.2 起新安装默认 1024 MiB（1 GiB），分为两个 512 MiB 文件，保留至少 1024 MiB 可用存储。保持现有 zRAM、内存回收设置、CPU 频率和 SELinux 策略；没有应用保活或定位/步态模拟功能。
